@@ -8,23 +8,23 @@
           "policies": [
             {
               "id": "P1",
-              "title": "Identify infrastructure needs, gaps, and areas for improvement",
-              "description": "Conduct comprehensive needs-based audits to systematically assess Infrastructure. For effective auditing, it is important to begin with an evidence-based assessment of current infrastructure needs, structured stakeholder consultations, and careful documentation of decisions, laying a solid foundation for transparent and measurable analysis.",
-              "examples": "Quantitative indicators and statistical sources such as the ITU's flagship Facts and Figures, tracks global connectivity through key indicators. Singapore's Smart Nation Initiative involves regular extensive needs assessments. UK's National Infrastructure Commission advises government on digital technologies rollout. South Korea's AI Framework Act Article 25 mandates comprehensive government support for AI data center development.",
+              "title": "Identify possible risks on economic activity due to AI",
+              "description": "Identify economic risks from AI development such as SME exclusion, foreign data dependence, labour disruptions, and capital concentration to determine AI readiness. Analysis can be disaggregated by sector, region, and population demographics, and supported by real-time data and case studies.",
+              "examples": "Moldova’s Digital Moldova 2020 Strategy outlines key pillars for digital transformation, including infrastructure, digital content, and capacity-building. It includes performance indicators and monitoring mechanisms to assess readiness and guide inclusive innovation. The African Union High-Level Dialogue on AI, held in Ethiopia in 2025, emphasised the need for inclusive AI readiness assessments across the continent. The AU called for investment in renewable-powered data centers, regional compute hubs, and cross-border infrastructure to address economic gaps and ensure equitable AI development.",
               "keywords": ["needs assessment", "audits", "stakeholder consultation", "evidence-based", "infrastructure", "gaps analysis", "systematic assessment"]
             },
             {
               "id": "P2",
-              "title": "Consult key stakeholders",
-              "description": "Consult key stakeholders to ensure audits reflect national and regional economic and social priorities, leveraging shared expertise.",
-              "examples": "",
+              "title": "Define sectoral priorities for AI innovation aligned with public interest",
+              "description": "Identify strategic sectors where AI can deliver measurable public value (e.g. sustainable agriculture, health equity). This involves analysing innovation gaps in underinvested markets, defining high-potential but low-commercial-incentive areas, and translating these into measurable goals. Stakeholder engagement is essential to ensure inclusive and equitable prioritisation.",
+              "examples": "North Macedonia’s National AI Strategy (2023) identifies public interest sectors such as agriculture, education, and public administration. It includes inclusive consultations and prioritises AI applications that address local development needs. The AI for SIDS 2.0 Forum, led by UNDP and the Government of Trinidad and Tobago, brought together over 1,200 participants from across the Caribbean to define public interest priorities for AI. The forum emphasised fisheries, climate resilience, and citizen services as key sectors, and promoted regional collaboration and tailored AI adoption strategies.",
               "keywords": ["stakeholder engagement", "consultation", "priorities", "shared expertise", "economic priorities", "social priorities", "national priorities", "regional priorities"]
             },
             {
               "id": "P3",
-              "title": "Assess national, regional, and international partnerships on Infrastructure and strengthen cooperation",
-              "description": "International and regional cooperation offers opportunities to leverage collaborative strategies, share knowledge, and ensure that infrastructure systems are interoperable across borders.",
-              "examples": "",
+              "title": "Map AI value chains and digital trade asymmetries",
+              "description": "Investigate how value is created and distributed across global and regional AI supply chains. Trace data flows, identify where compute power is concentrated, and determine which actors capture the most economic benefit. Pinpoint domestic gaps in infrastructure, talent, and financing, thereby framing opportunities for improved industrial and trade policies that reduce dependencies and promote inclusive growth.",
+              "examples": "The African Continental Free Trade Area (AfCFTA) Digital Trade Protocol offers a framework for harmonising digital trade across Africa. Research ICT Africa’s analysis highlights how global platforms dominate AI value chains, raising concerns about regulatory capture and the need for sovereign infrastructure. The WTO’s 2024 report “Trading with Intelligence” explores how AI is reshaping international trade. It examines how AI reduces transaction costs, shifts comparative advantages, and concentrates value among a few dominant actors, offering a global lens on digital asymmetries and policy responses.",
               "keywords": ["partnerships", "cooperation", "interoperability", "collaboration", "international cooperation", "regional cooperation", "cross-border", "knowledge sharing"]
             },
             {
@@ -248,16 +248,16 @@
           "policies": [
             {
               "id": "P31",
-              "title": "Issue guidelines for ethical AI development and consult on hard vs soft legislative options (Guidelines)",
-              "description": "Develop ethical AI guidelines that promote responsible innovation and public trust.",
-              "examples": "UK promotes global AI standards through its AI Standards Hub. Germany champions AI standards via DIN. China uses a hybrid approach. Japan sets AI Governance Guidelines.",
+              "title": "Draft inclusive media and information literacy (MIL) policy frameworks",
+              "description": "Integrate MIL into education, digital inclusion, and human rights strategies. Use multi-stakeholder platforms to co-create policies that address misinformation, digital access, and civic empowerment.",
+              "examples": "UNESCO’s MIL guidelines help countries develop inclusive policies that connect media literacy with education, digital inclusion, and civic empowerment.",
               "keywords": ["ethical guidelines", "hard law", "soft law", "public trust", "responsible innovation", "AI standards", "governance guidelines", "regulatory approaches"]
             },
             {
               "id": "P32",
-              "title": "Issue guidelines for ethical AI development and consult on hard vs soft legislative options (Law Types)",
-              "description": "Clarify when enforceable laws (hard law) are necessary versus when voluntary or advisory approaches (soft law) are appropriate.",
-              "examples": "",
+              "title": "Operationalize dedicated AI regulatory bodies, strengthen mandates of existing agencies, and/or clarify the responsibilities of existing agencies",
+              "description": "Deploy specialised AI oversight institutions or assign/strengthen clear mandates for existing regulators (e.g., data protection, competition, telecommunications) with coordination mechanisms to avoid gaps. Bodies with legal authority, technical expertise, and utilizing cross-sectoral collaboration frameworks will be most effective.",
+              "examples": "The UK's Responsible Technology Adoption Unit (formerly Centre for Data Ethics and Innovation) integrates ethical oversight into AI governance. The Ministry of Legal Affairs  of Antigua and Barbuda appointed an AI policy focal point, while the Ministry of ICTs leads digitization efforts toward full eGovernment by 2030.",
               "keywords": ["hard law", "soft law", "enforceable", "voluntary", "advisory approaches", "regulatory clarity", "legal enforcement", "compliance mechanisms"]
             },
             {

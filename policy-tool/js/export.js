@@ -67,13 +67,13 @@ export class ExportManager {
     // Get dimension color
     getPolicyAreaColor(dimension) {
         const colorMap = {
-            'Enabling Infrastructure': 'var(--color-infrastructure)',
-            'Legislation & Policy': 'var(--color-legislation)',
-            'Sustainability & Society': 'var(--color-sustainability)',
-            'Economy & Innovation': 'var(--color-economy)',
-            'Research & Education': 'var(--color-research)'
+            'Enabling Infrastructure': this.DESIGN.colors.infrastructure,
+            'Legislation & Policy': this.DESIGN.colors.legislation,
+            'Sustainability & Society': this.DESIGN.colors.sustainability,
+            'Economy & Innovation': this.DESIGN.colors.economic,
+            'Research & Education': this.DESIGN.colors.education
         };
-        relatedPolicyDimensionEl.style.background = colorMap[policy.dimension] || 'var(--color-gray-200)';
+        return colorMap[dimension] || this.DESIGN.colors.primary;
     }
 
     // Render paragraph with proper spacing
@@ -434,7 +434,8 @@ export class ExportManager {
                 }
 
                 // Add relevant experts per policy
-                if (expertsManager.isExpertsDataLoaded() && policy.keywords && policy.keywords.length > 0) {
+                // Add relevant experts per policy
+                if (dataLoader.isExpertsDataLoaded() && policy.keywords && policy.keywords.length > 0) {
                     const relevantExperts = expertsManager.findRelevantExperts(policy.keywords, 3);
                     
                     if (relevantExperts.length > 0) {

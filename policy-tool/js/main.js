@@ -2,12 +2,14 @@
  * Updated main.js - Add this import and initialization
  */
 
+
 import { dataLoader } from './data-loader.js';
 import { expertsManager } from './experts.js';
 import { buttonSystem } from './button-system.js';
 import { app } from './app.js';
 import { state } from './state.js';
 import { howToUseGuide } from './how-to-use-guide.js'; // Add this import
+import { exportManager } from './export.js'; // Import export manager to register exportToPDF
 
 class ApplicationBootstrap {
     constructor() {
@@ -267,6 +269,7 @@ class ApplicationBootstrap {
 
     setupDevelopmentDebugging() {
         // Only in development environments
+        window.exportToPDF = () => exportManager.exportToPDF();
         if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
             window.PolicyToolDebug = {
                 state: () => state.toJSON(),
