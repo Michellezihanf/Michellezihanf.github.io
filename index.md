@@ -6,12 +6,13 @@ Hi, I am Enrique Garcia, a **Software engineer** with 8 years of experience accr
 
 Below is a summary of my CV. 
 
-# Working Experience
+# 👨‍💻 Working Experience
 
 <h2 class="job-row">
-  <span class="job-left">CERN</span>
-  <span class="job-right">10/22–09/25</span>
+  <span>CERN</span>
+  <span>10/22–09/25</span>
 </h2>
+
 ### Fellow on Scientific Computing. IT-LCG-TC Group
 
 - **Coordinator** of the [ESCAPE Virtual Research Environment (VRE)](https://vre-hub.github.io/). 
@@ -35,5 +36,5 @@ Skills & Technologies: **DevOps & Cloud** (Kubernetes, Helm, K9s, Flux, Docker, 
  Skills & Technologies: Python, Bash scripting, Docker, SLURM, git, GitHub actions, GitLab CI/CD, Jenkins.
 
 
-# Relevant publications
+# 📑 Relevant publications
 
