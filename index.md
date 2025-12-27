@@ -1,16 +1,15 @@
 ---
 layout: default
-title: Your Name
+title: Zihan Fan
 ---
 
-# Your Name
+# Zihan Fan
 
-Prospective PhD applicant in [Your Field]
+Prospective PhD applicant in [Human Computer Interaction]
 
 ## Research Interests
-- Interest 1
-- Interest 2
-- Interest 3
+- Transformational Experiences
+- Educational Games
 
 ## About
 I am a prospective PhD applicant interested in [brief description of your research focus].
@@ -20,4 +19,4 @@ My research focuses on [briefly describe methods, topics, or questions you are p
 *CV link will be added after uploading the file*
 
 ## Contact
-Email: your.email@example.com
+Email: michellefzh@gmail.com
