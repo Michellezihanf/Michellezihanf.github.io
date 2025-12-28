@@ -15,6 +15,9 @@ Prospective PhD applicant in [Human Computer Interaction]
 I am a prospective PhD applicant interested in [brief description of your research focus].
 My research focuses on [briefly describe methods, topics, or questions you are passionate about].
 
+## Projects
+[View selected projects](projects.html)
+
 ## CV
 *CV link will be added after uploading the file*
 
