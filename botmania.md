@@ -4,7 +4,7 @@ title: BotMania
 back_link: /projects.html
 sidebar_image: /assets/img/projects/dreameow-poster.png
 sidebar_alt: Screenshot of BotMania
-sidebar_caption: Project Poster.
+sidebar_caption: Project Poster
 ---
 
 ← [Back to Home](/)
