@@ -16,7 +16,11 @@ I am a prospective PhD applicant interested in [brief description of your resear
 My research focuses on [briefly describe methods, topics, or questions you are passionate about].
 
 ## Projects
-[View selected projects](projects.html)
+- [BotMania — Motion-tracking STEAM learning game](botmania.html)
+- [Autonomous E-Bike — Interface design for autonomy](autonomous-ebike.html)
+
+[View all projects](projects.html)
+
 
 ## CV
 *CV link will be added after uploading the file*
