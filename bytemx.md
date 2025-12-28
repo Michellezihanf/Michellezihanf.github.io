@@ -3,6 +3,8 @@ layout: project
 title: ByteMX
 ---
 
+← [Back to Home](/)
+
 # ByteMX
 
 **Role:** 2D Artist, UI/UX Designer  
