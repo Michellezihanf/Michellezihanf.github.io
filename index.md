@@ -17,7 +17,8 @@ My research focuses on [briefly describe methods, topics, or questions you are p
 
 ## Projects
 - [BotMania — Motion-tracking STEAM learning game](botmania.html)
-- [Autonomous E-Bike — Interface design for autonomy](autonomous-ebike.html)
+- [Autonomous E-Bike — Interaction design for autonomous systems](autonomous-ebike.html)
+- [ByteMX — Educational simulation for pump track engineering](bytemx.html)
 
 [View all projects](projects.html)
 
