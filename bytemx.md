@@ -19,3 +19,6 @@ Throughout development, we conducted frequent playtesting sessions over the seme
 ## Documentation and Design Handoff
 In addition to design and evaluation work, I authored the project handoff document, which consolidated all non-code aspects of the project. This documentation detailed system usage, feature descriptions, design rationale, known limitations, and guidance for future development teams. Writing this document reinforced my understanding of design communication, sustainability of interactive systems, and collaboration across disciplines.
 
+## Project Links
+- [Project Website](https://projects.etc.cmu.edu/bytemx/)
+- [Demo Video]
