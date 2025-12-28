@@ -1,6 +1,10 @@
 ---
 layout: project
 title: ByteMX
+back_link: /projects.html
+sidebar_image: /assets/img/projects/ByteMX_Poster-1.png
+sidebar_alt: Screenshot of ByteMX
+sidebar_caption: Project Poster
 ---
 
 ← [Back to Home](/)
