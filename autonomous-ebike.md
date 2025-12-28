@@ -3,6 +3,8 @@ layout: project
 title: Autonomous E-Bike Interaction Design Project
 ---
 
+← [Back to Home](/)
+
 # Autonomous E-Bike Interaction Design Project
 
 **Role:** Interaction Designer  
