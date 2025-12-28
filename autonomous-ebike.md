@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: project
 title: Autonomous E-Bike Interaction Design Project
-hide_header: true
 ---
 
 # Autonomous E-Bike Interaction Design Project
