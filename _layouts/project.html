@@ -9,18 +9,42 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>
+
   <body>
     <div class="wrapper">
+      <header>
+        {% if page.back_link %}
+          <p class="view"><a href="{{ page.back_link }}">← Back</a></p>
+        {% endif %}
+
+        {% if page.sidebar_image %}
+          <img src="{{ page.sidebar_image | relative_url }}"
+               alt="{{ page.sidebar_alt | default: page.title }}"
+               style="max-width: 100%; height: auto; border-radius: 10px;" />
+        {% endif %}
+
+        {% if page.sidebar_caption %}
+          <p style="margin-top: 0.6rem; font-size: 0.95em; opacity: 0.85;">
+            {{ page.sidebar_caption }}
+          </p>
+        {% endif %}
+
+        {% if page.project_links %}
+          <p class="view" style="margin-top: 1rem;">
+            {{ page.project_links }}
+          </p>
+        {% endif %}
+      </header>
+
       <section>
-
         {{ content }}
-
       </section>
+
       <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by
-          <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hosted on GitHub Pages</small></p>
       </footer>
     </div>
+
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
