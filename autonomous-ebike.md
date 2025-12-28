@@ -18,3 +18,7 @@ To support rapid iteration, we developed low-fidelity physical prototypes using 
 
 ## Learning and HCI Foundations
 This project strengthened my understanding of interaction design fundamentals and frameworks, including the Double Diamond design process and Jesse James Garrett’s model of user experience. I gained experience applying information architecture principles and using low-cost prototyping as a design research tool to support user-centered product development.
+
+## Project Links
+- [Experience Design Document (Figma)](https://www.figma.com/board/fSjK7WGmB6onCF2nue52V7/A4--E-Bikes?node-id=0-1&t=3KJRofzBcmJKqwJv-1)
+- [Application Design Document (Figma)](https://www.figma.com/design/LMA848lXFJ3b3mWmqDKRXm/IxDF-A4-Application-Design?node-id=0-1&t=fEfHPQ69sdfabOBL-1)
