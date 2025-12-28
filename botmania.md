@@ -3,6 +3,8 @@ layout: project
 title: BotMania
 ---
 
+← [Back to Home](/)
+
 # BotMania
 
 **Role:** 2D Artist, UI/UX Designer, Assistant Producer  
