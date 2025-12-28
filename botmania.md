@@ -25,3 +25,24 @@ A central component of the project involved iterative user testing with children
 ## Project Links
 - [Project Website](https://projects.etc.cmu.edu/dreameow/)
 - [Demo Video](https://youtu.be/AbI5nsy78gE)
+
+## Design Artifacts & Process
+
+<div class="project-gallery">
+
+<figure>
+  <img src="/assets/img/projects/botmania/gameplay.png" alt="BotMania gameplay with motion tracking" />
+  <figcaption>Gameplay interaction using full-body motion tracking.</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/img/projects/botmania/storyboard.png" alt="Storyboard sketches for BotMania" />
+  <figcaption>Early storyboard sketches used for rapid iteration.</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/img/projects/botmania/ui.png" alt="User interface design for BotMania" />
+  <figcaption>Final UI assets designed for young users.</figcaption>
+</figure>
+
+</div>
