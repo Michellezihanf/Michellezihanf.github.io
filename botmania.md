@@ -15,7 +15,7 @@ sidebar_caption: Project Poster
 **Project Type:** Client project with *Give Kids the World* (non-profit organization)
 
 ## Project Overview
-BotMania is a motion-tracking educational game developed to introduce children to STEAM concepts through embodied interaction and playful learning. The project aimed to create an engaging and accessible experience for young users by combining physical movement with interactive digital content.
+BotMania is a **motion-tracking educational game** developed to introduce children to STEAM concepts through embodied interaction and playful learning. The project aimed to create an engaging and accessible experience for young users by combining physical movement with interactive digital content.
 
 ## Design and Research Contributions
 I designed the end-to-end user experience, including user flow development, storyboard sketching for rapid iteration, UI asset design, and 2D animation production. I also supported production management by coordinating timelines and facilitating cross-disciplinary collaboration.
