@@ -27,4 +27,4 @@ In addition to design and evaluation work, I authored the project handoff docume
 
 ## Project Links
 - [Project Website](https://projects.etc.cmu.edu/bytemx/)
-- [Demo Video]
+- [Demo Video](https://www.youtube.com/watch?time_continue=36&v=qAsIWBYesZo&embeds_referring_euri=https%3A%2F%2Fprojects.etc.cmu.edu%2F&embeds_referring_origin=https%3A%2F%2Fprojects.etc.cmu.edu&source_ve_path=Mjg2NjY)
