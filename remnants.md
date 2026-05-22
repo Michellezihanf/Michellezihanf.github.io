@@ -38,7 +38,7 @@ As producer, I was responsible for organizing and coordinating the overall produ
 - creating informational pamphlets distributed after the experience
 - contributing interaction design, user flow planning, and visual design elements in Figma
 
-A detailed development log and documentation of the iterative design process can be found on the project website.
+A detailed development log and documentation of the iterative design process can be found on the [project website](https://projects.etc.cmu.edu/remnants/).
 
 ---
 
