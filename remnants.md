@@ -70,4 +70,4 @@ Through this experience, I developed a stronger interest in design-oriented HCI 
 
 ## Project Links
 
-- [Project Website](PUT_LINK_HERE)
+- [Project Website](https://projects.etc.cmu.edu/remnants/)
