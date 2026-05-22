@@ -71,3 +71,4 @@ Through this experience, I developed a stronger interest in design-oriented HCI 
 ## Project Links
 
 - [Project Website](https://projects.etc.cmu.edu/remnants/)
+- [Demo Video](https://www.youtube.com/watch?v=9LXWLI8raqk)
