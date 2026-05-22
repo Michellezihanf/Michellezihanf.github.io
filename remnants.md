@@ -2,7 +2,7 @@
 layout: project
 title: Remnants
 back_link: /projects.html
-sidebar_image: /assets/img/projects/remnants/cover.png
+sidebar_image: assets/img/projects/Remnants-poster.png
 sidebar_alt: Remnants immersive installation
 sidebar_caption: Immersive interactive installation exploring dementia caregiving in a 270° projection environment.
 ---
