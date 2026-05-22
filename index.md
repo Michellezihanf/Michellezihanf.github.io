@@ -12,8 +12,10 @@ Prospective PhD applicant in [Human Computer Interaction]
 - Educational Games
 
 ## About
-I am a prospective PhD applicant interested in [brief description of your research focus].
-My research focuses on [briefly describe methods, topics, or questions you are passionate about].
+
+I am a design-oriented researcher and interactive media creator currently pursuing a master’s degree at Carnegie Mellon University’s Entertainment Technology Center. My work explores the intersection of art, technology, and human-computer interaction, with a focus on educational games, transformational experiences, immersive interaction, and research-through-design.
+
+Through interactive installations, games, and embodied learning experiences, I investigate how digital and physical interactions can support empathy, engagement, and learning. I am currently working with HCI research labs at Carnegie Mellon University to develop my understanding of qualitative research methods and user-centered design.
 
 ## Projects
 - [BotMania — Motion-tracking STEAM learning game](botmania.html)
