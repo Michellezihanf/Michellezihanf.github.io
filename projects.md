@@ -13,3 +13,6 @@ title: Projects
 
 - [ByteMX](bytemx.html)  
   Educational simulation supporting engineering learning through BMX pump track design
+  
+- [Remnants](remnants.html)  
+  Immersive interactive installation exploring dementia caregiving through embodied interaction and transformational experience design
