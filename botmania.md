@@ -31,7 +31,7 @@ A central component of the project involved iterative user testing with children
 <div class="project-gallery">
 
 <figure>
-  <img src="/assets/img/projects/botmania/gameplay.png" alt="BotMania gameplay with motion tracking" />
+  <img src="assets/img/projects/botmania/gameplay1.png" alt="BotMania gameplay1" />
   <figcaption>Gameplay interaction using full-body motion tracking.</figcaption>
 </figure>
 
