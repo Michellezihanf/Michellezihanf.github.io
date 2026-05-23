@@ -54,15 +54,15 @@ A central component of the project involved iterative user testing with children
 </figure>
 
 <figure>
-  <img src="/assets/img/projects/botmania/storyboard1.png" alt="Storyboard sketches for BotMania" />
+  <img src="assets/img/projects/botmania/storyboard1.JPG" alt="Storyboard sketches for BotMania" />
 </figure>
 
 <figure>
-  <img src="/assets/img/projects/botmania/storyboard2.png" alt="Storyboard sketches for BotMania" />
+  <img src="assets/img/projects/botmania/storyboard2.JPG" alt="Storyboard sketches for BotMania" />
 </figure>
 
 <figure>
-  <img src="/assets/img/projects/botmania/storyboard3.png" alt="Storyboard sketches for BotMania" />
+  <img src="assets/img/projects/botmania/storyboard3.JPG" alt="Storyboard sketches for BotMania" />
   <figcaption>Early storyboard sketches used for rapid iteration.</figcaption>
 </figure>
 
