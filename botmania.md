@@ -28,7 +28,7 @@ A central component of the project involved iterative user testing with children
 
 ## Design Artifacts & Process
 
-<div class="project-gallery">
+<div class="project-gallery-two">
 
 <figure>
   <img src="assets/img/projects/botmania/gameplay1.png" alt="BotMania Startscreen" />
@@ -53,6 +53,10 @@ A central component of the project involved iterative user testing with children
   <figcaption>Game result page.</figcaption>
 </figure>
 
+</div>
+
+<div class="project-gallery">
+  
 <figure>
   <img src="assets/img/projects/botmania/storyboard1.JPG" alt="Storyboard sketches for BotMania" />
 </figure>
