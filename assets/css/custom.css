@@ -23,3 +23,26 @@
   opacity: 0.85;
   margin-top: 0.4rem;
 }
+.project-gallery-two {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.project-gallery-two figure {
+  margin: 0;
+}
+
+.project-gallery-two img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+
+@media (max-width: 780px) {
+  .project-gallery-two {
+    grid-template-columns: 1fr;
+  }
+}
