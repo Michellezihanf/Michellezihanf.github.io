@@ -31,18 +31,39 @@ A central component of the project involved iterative user testing with children
 <div class="project-gallery">
 
 <figure>
-  <img src="assets/img/projects/botmania/gameplay1.png" alt="BotMania gameplay1" />
-  <figcaption>Gameplay interaction using full-body motion tracking.</figcaption>
+  <img src="assets/img/projects/botmania/gameplay1.png" alt="BotMania Startscreen" />
+  <figcaption>Game startscreen.</figcaption>
 </figure>
 
 <figure>
-  <img src="/assets/img/projects/botmania/storyboard.png" alt="Storyboard sketches for BotMania" />
+  <img src="assets/img/projects/botmania/gameplay2.png" alt="Won's Game" />
+</figure>
+
+<figure>
+  <img src="assets/img/projects/botmania/gameplay3.png" alt="Mage's Game" />
+</figure>
+
+<figure>
+  <img src="assets/img/projects/botmania/gameplay4.png" alt="Bill's Game" />
+  <figcaption>Three different games in Botmania that aims to teach student different subjects.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/img/projects/botmania/gameplay5.png" alt="Result Screen" />
+  <figcaption>Game result page.</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/img/projects/botmania/storyboard1.png" alt="Storyboard sketches for BotMania" />
+</figure>
+
+<figure>
+  <img src="/assets/img/projects/botmania/storyboard2.png" alt="Storyboard sketches for BotMania" />
+</figure>
+
+<figure>
+  <img src="/assets/img/projects/botmania/storyboard3.png" alt="Storyboard sketches for BotMania" />
   <figcaption>Early storyboard sketches used for rapid iteration.</figcaption>
-</figure>
-
-<figure>
-  <img src="/assets/img/projects/botmania/ui.png" alt="User interface design for BotMania" />
-  <figcaption>Final UI assets designed for young users.</figcaption>
 </figure>
 
 </div>
