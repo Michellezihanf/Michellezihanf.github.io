@@ -31,26 +31,21 @@ A central component of the project involved iterative user testing with children
 <div class="project-gallery-two">
 
 <figure>
-  <img src="assets/img/projects/botmania/gameplay1.png" alt="BotMania Startscreen" />
-  <figcaption>Game startscreen.</figcaption>
+  <img src="/assets/img/projects/botmania/gameplay1.png" alt="BotMania Startscreen" />
+  <figcaption>Game start screen.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/img/projects/botmania/gameplay2.png" alt="Won's Game" />
+  <img src="/assets/img/projects/botmania/gameplay2.png" alt="Won's Game" />
 </figure>
 
 <figure>
-  <img src="assets/img/projects/botmania/gameplay3.png" alt="Mage's Game" />
+  <img src="/assets/img/projects/botmania/gameplay3.png" alt="Mage's Game" />
 </figure>
 
 <figure>
-  <img src="assets/img/projects/botmania/gameplay4.png" alt="Bill's Game" />
-  <figcaption>Three different games in Botmania that aims to teach student different subjects.</figcaption>
-</figure>
-
-<figure>
-  <img src="assets/img/projects/botmania/gameplay5.png" alt="Result Screen" />
-  <figcaption>Game result page.</figcaption>
+  <img src="/assets/img/projects/botmania/gameplay4.png" alt="Bill's Game" />
+  <figcaption>Three learning activities designed to teach different STEAM concepts.</figcaption>
 </figure>
 
 </div>
