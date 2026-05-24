@@ -27,7 +27,7 @@ Through interactive installations, games, and embodied learning experiences, I i
 
 
 ## CV
-*CV link will be added after uploading the file*
+[View Resume](assets/files/zihanf-resume.pdf)
 
 ## Contact
 Email: michellefzh@gmail.com
